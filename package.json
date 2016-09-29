@@ -1,0 +1,14 @@
+{
+  "name": "dices-monsters-heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/index.js"
+  },
+  "author": "alex alonso",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
